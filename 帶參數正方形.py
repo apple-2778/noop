@@ -1,0 +1,20 @@
+import turtle as t
+def r(f):
+    for i in range(4):
+        t.fd(f)
+        t.rt(90)
+r(100)
+t.rt(90)
+r(100)
+t.rt(90)
+r(100)
+t.rt(90)
+r(100)
+t.rt(90)
+r(200)
+t.rt(90)
+r(200)
+t.rt(90)
+r(200)
+t.rt(90)
+r(200)
